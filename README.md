@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/card-component-using-css-FvWV6_---D)
 - Live Site URL: [Demo](https://starlit-moonbeam-7ccc78.netlify.app/)
 
 ## My process
