@@ -31,7 +31,7 @@ h1 {
     font-weight: 700;
     font-size: 36px;
     color:white;
-
+    width: 400px;
 }
 h1 > span {
     color:hsl(277, 64%, 61%) ;
@@ -69,6 +69,7 @@ img {
     font-weight: 400;
     font-size: 12px;
     text-transform: uppercase;
+    color: hsla(0, 0%, 100%, 0.6);
 }
 .big {
     order: 1;
@@ -80,7 +81,7 @@ img {
 
 @media screen and (max-width: 1170px) {
     .card {
-        transform: translateY(25%);
+        transform: translateY(5%);
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
